@@ -8,7 +8,7 @@
 
 
 <a href=""><li>第二次报告</li></a>
-<a href=""><li>第二次指导录音下载</li></a>
+<a href="https://www.dropbox.com/s/358xh9sgufof8im/%E6%9D%A8%E9%92%9F%E7%90%AA%E6%8C%87%E5%AF%BC2.m4a?dl=0"><li>第二次指导录音下载</li></a>
 
 
 ## 陈桢煜
